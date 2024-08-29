@@ -1,1 +1,1 @@
-# Weather-app
+This is the React Native Expo Weather App provides real-time weather updates based on your location. The app features a clean and intuitive user interface, displaying current temperature, weather conditions, and forecasts. Built using React Native and Expo, it leverages APIs for accurate weather data and ensures a responsive design that works seamlessly across both Android and iOS devices.
